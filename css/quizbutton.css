@@ -1,8 +1,10 @@
 
 
-a
+.a
 {
     cursor:pointer;
+    text-decoration:none;
+    color:#ffffff;
 }
 .myButton {
     -moz-box-shadow:inset 0px -3px 7px 0px #29bbff;
